@@ -3,3 +3,6 @@ Enviando para o Git
 git add .
 git commit -m ""
 git push -u origin master
+
+ctrl + alt + n - rodar codigo no visual studio code
+
