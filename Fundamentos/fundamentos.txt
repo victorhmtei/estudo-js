@@ -1,0 +1,8 @@
+-> Algoritimo é uma sequencias de passos as vezes com repeticoes dentro das sequencias
+
+-> Estrutura de Dados
+    ->Organiza e Administra seus Dados
+    ->Fila - pimeiro que entra é o primeiro que sai
+    ->Pilha - ultimo que entra é o Primeiro que sai
+
+    
